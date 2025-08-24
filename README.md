@@ -1,7 +1,7 @@
 ## Olá!!! Me chamo Pedro Rennil
 <div> 
   
-![Pedro Rennil GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rennil&show_icons=true&theme=dracula)
+![Pedro Rennil GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rennil&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rennil&layout=compact&theme=dracula&count_private=true)](https://github.com/pedro-rennil/github-readme-stats)
 </div>
   <div style="display: inline_block"><br>
