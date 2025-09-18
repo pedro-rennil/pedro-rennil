@@ -1,19 +1,23 @@
 ## Olá!!! Me chamo Pedro Rennil
+
 <div> 
   
 ![Pedro Rennil GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rennil&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rennil&layout=compact&theme=dracula&count_private=true)](https://github.com/pedro-rennil/github-readme-stats)
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
 
-##
+</div>
+<div align="left">
+  <p>
+  <h3><strong> 💻 My Skills </strong> </h3>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cs,html,css,react,figma" width="30%">
+  </p>  
+  <p>  
+  <h3><strong> 📖 Currently Studying </strong></h3>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,java,py" width="15%">   
+  </p> 
+ </div> 
+ 
+## 
 
 <div> 
   <a href = "mailto:pedro.rennil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
